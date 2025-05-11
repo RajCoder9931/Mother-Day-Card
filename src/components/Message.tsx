@@ -7,18 +7,21 @@ export const Message = () => {
             My Dearest Mother
           </h2>
           <p className="text-gray-700 leading-relaxed">
-            Every moment we've shared, every lesson you've taught, and every
-            smile we've exchanged has been a precious gift. Your love has been
-            my guiding light, your strength my inspiration, and your wisdom my
-            compass.
+            सबसे पहले सॉरी माँ, मदर्स डे पर विश करने में देर हो गई।
+            लेकिन आपको याद करने में कभी देर नहीं होती, क्योंकि आप तो हर पल मेरे दिल में हैं।
+            माँ, आप मेरी ज़िंदगी की वो रौशनी हो जो अंधेरों में भी रास्ता दिखाती है।
+            आपकी मुस्कान मेरी ताक़त है, 
           </p>
           <p className="text-gray-700 leading-relaxed">
-            Today, I celebrate not just a mother, but my best friend, my
-            confidante, and my hero. Your unconditional love has shaped me into
-            who I am, and for that, I am eternally grateful.
+            आपका आशीर्वाद मेरा सहारा।
+            आपने हर पल, हर मोड़ पर मुझे सम्भाला, बिना किसी शिकायत के।
+            माँ, मैं जितना भी कह लूं, आपका एहसान कभी नहीं चुका सकता।
+            देर से ही सही, लेकिन दिल से – हैप्पी मदर्स डे माँ!
+            मुझसे गलतियाँ होती हैं, पर आपसे प्यार करने में कभी कोई कमी नहीं होती।
+            आप मेरी दुनिया हो। ❤️
           </p>
           <p className="text-pink-600 font-medium">
-            With all my love,
+            I Love You so Much Mumma 
             <br />
             Your Son
           </p>
