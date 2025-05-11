@@ -1,8 +1,9 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { PlayIcon, PauseIcon, VolumeXIcon, Volume2Icon } from 'lucide-react';
+import mySound from '../images/Song.mp3'; // Adjust path as needed
 
 export const AudioPlayer = () => {
-  const [isPlaying, setIsPlaying] = useState(true); // Default: playing
+  const [isPlaying, setIsPlaying] = useState(true);
   const [isMuted, setIsMuted] = useState(false);
   const audioRef = useRef(null);
 
@@ -48,7 +49,7 @@ export const AudioPlayer = () => {
       </button>
       <audio
         ref={audioRef}
-        src="https://music.youtube.com/watch?v=0mXTpwRgA4Y&si=YFKMViZCfGKbt-H_&t=30"
+        src={mySound}
         loop
         muted={isMuted}
       />
